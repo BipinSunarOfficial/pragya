@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pragya</string>
+    <string name="text_fname">First Name</string>
+    <string name="text_mname">Middle Name</string>
+    <string name="text_lname">Last Name</string>
+    <string name="text_email">Email*</string>
+    <string name="text_password">Password*</string>
+    <string name="text_repassword">ReEnter Password*</string>
+    <string name="text_login">SnapChat LogIn</string>
+    <string name="text_signup">Sign Up</string>
+    <string name="title_name">Facebook-Copy</string>
+    <string name="footer">
+        By tapping Sign up B Accept, you acknowledge that you have read the
+Privacy Policy and agree to the Terms of Service. Snapchatters can
+always capture or save your messages, such as by taking a screenshot or
+using a camera. Be mindful of what you Snap!
+
+
+
+    </string>
+
+    <string name="termsandcondition">Please tick the Agreement before Sign Up</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
